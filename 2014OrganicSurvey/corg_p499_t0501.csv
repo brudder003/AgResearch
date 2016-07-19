@@ -1,0 +1,63 @@
+501,"t","2014 Organic Survey: Released September 17, 2015, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+501,"t","Table 63.  All Organic Grapes Harvested and Value of Sales – Exempt Organic Farms:  2014"
+501,"t","[For meaning of abbreviations and symbols, see introductory text.]"
+501,"h","","","","","","",""
+501,"h","","","","","Value of sales","Value of sales","Value of sales"
+501,"h","","","","","","",""
+501,"h","","Harvested","Harvested","Harvested","Total","Total","Total"
+501,"h","","","","","","",""
+501,"h","Crop and geographic area","Farms","Acres","Tons","Farms","Tons","Dollars"
+501,"h","","","","","","",""
+501,"d","United States",70,58,55,68,45,76589
+501,"d","",,,,,,
+501,"d","California",22,32,39,22,38,48333
+501,"d","Florida",1,"(D)","(D)",1,"(D)","(D)"
+501,"d","Georgia",4,1,1,2,"(D)","(D)"
+501,"d","Illinois",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","Kentucky",3,1,"(D)",3,"(D)",2744
+501,"d","",,,,,,
+501,"d","Maine",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","Maryland",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","Massachusetts",3,"(Z)","(Z)",3,"(D)",126
+501,"d","Minnesota",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","Missouri",3,"(D)","(D)",3,"(D)","(D)"
+501,"d","",,,,,,
+501,"d","Montana",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","New Hampshire",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","New Jersey",6,3,"(Z)",6,"(Z)",1116
+501,"d","Oregon",2,"(D)","(D)",2,"(D)","(D)"
+501,"d","Pennsylvania",1,"(D)","(D)",1,"(D)","(D)"
+501,"d","",,,,,,
+501,"d","Texas",4,1,"(Z)",4,"(Z)",1480
+501,"d","Washington",9,2,2,9,2,"(D)"
+501,"c",""
+501,"h","","","","","","",""
+501,"h","","Value of sales - con.","Value of sales - con.","Value of sales - con.","Value of sales - con.","Value of sales - con.","Value of sales - con."
+501,"h","","","","","","",""
+501,"h","","Sold as organic","Sold as organic","Sold as organic","Sold as conventional","Sold as conventional","Sold as conventional"
+501,"h","","","","","","",""
+501,"h","Crop and geographic area","Farms","Tons","Dollars","Farms","Tons","Dollars"
+501,"h","","","","","","",""
+501,"d","United States",65,42,71284,8,3,5305
+501,"d","",,,,,,
+501,"d","California",22,35,43441,5,3,4892
+501,"d","Florida",1,"(D)","(D)",-,-,-
+501,"d","Georgia",-,-,-,2,"(D)","(D)"
+501,"d","Illinois",2,"(D)","(D)",-,-,-
+501,"d","Kentucky",3,"(D)",2744,-,-,-
+501,"d","",,,,,,
+501,"d","Maine",2,"(D)","(D)",-,-,-
+501,"d","Maryland",2,"(D)","(D)",-,-,-
+501,"d","Massachusetts",3,"(D)",126,-,-,-
+501,"d","Minnesota",2,"(D)","(D)",-,-,-
+501,"d","Missouri",3,"(D)","(D)",-,-,-
+501,"d","",,,,,,
+501,"d","Montana",2,"(D)","(D)",-,-,-
+501,"d","New Hampshire",2,"(D)","(D)",-,-,-
+501,"d","New Jersey",5,"(D)","(D)",1,"(D)","(D)"
+501,"d","Oregon",2,"(D)","(D)",-,-,-
+501,"d","Pennsylvania",1,"(D)","(D)",-,-,-
+501,"d","",,,,,,
+501,"d","Texas",4,"(Z)",1480,-,-,-
+501,"d","Washington",9,2,"(D)",-,-,-
+501,"c",""

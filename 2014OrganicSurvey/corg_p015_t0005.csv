@@ -1,0 +1,59 @@
+5,"t","2014 Organic Survey: Released September 17, 2015, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+5,"t","Table 1.  Farms, Land, and Value of Sales of Organic Agricultural Products – Certified and Exempt Organic Farms:  2014 (continued)"
+5,"t","[For meaning of abbreviations and symbols, see introductory text.]"
+5,"h","","","","","","","",""
+5,"h","Item","","Mississippi","Missouri","Montana","Nebraska","Nevada","New Hampshire"
+5,"h","","","","","","","",""
+5,"d","ORGANIC FARMS","",,,,,,
+5,"d","","",,,,,,
+5,"d","Certified or exempt","farms",8,216,147,170,49,150
+5,"d","","",,,,,,
+5,"d","ORGANIC LAND","",,,,,,
+5,"d","","",,,,,,
+5,"d","Total certified and exempt organic acres","",,,,,,
+5,"d"," operated","farms",8,214,147,170,49,150
+5,"d","","acres",2802,49421,317925,110545,7064,8040
+5,"d","","",,,,,,
+5,"d","  Land owned","farms",8,201,137,151,44,132
+5,"d","","acres","(D)",39682,187022,81466,6720,5359
+5,"d","  Land rented from others","farms",2,64,64,72,12,41
+5,"d","","acres","(D)",12392,136845,32419,344,"(D)"
+5,"d","  Land rented to others","farms",-,10,9,14,-,2
+5,"d","","acres",-,2653,5942,3340,-,"(D)"
+5,"d","","",,,,,,
+5,"d","  Total certified organic acres operated","farms",8,182,138,166,45,112
+5,"d","","acres",2802,48630,317878,110145,7057,7303
+5,"d","    Land owned","farms",8,169,128,147,40,94
+5,"d","","acres","(D)","(D)",186975,"(D)",6713,4625
+5,"d","    Land rented from others","farms",2,64,64,72,12,38
+5,"d","","acres","(D)",12392,136845,32419,344,"(D)"
+5,"d","    Land rented to others","farms",-,9,9,12,-,2
+5,"d","","acres",-,"(D)",5942,"(D)",-,"(D)"
+5,"d","","",,,,,,
+5,"d","  Total exempt organic acres operated","farms",-,32,9,4,4,38
+5,"d","","acres",-,791,47,400,7,737
+5,"d","    Land owned","farms",-,32,9,4,4,38
+5,"d","","acres",-,"(D)",47,"(D)",7,734
+5,"d","    Land rented from others","farms",-,-,-,-,-,3
+5,"d","","acres",-,-,-,-,-,3
+5,"d","    Land rented to others","farms",-,1,-,2,-,-
+5,"d","","acres",-,"(D)",-,"(D)",-,-
+5,"d","","",,,,,,
+5,"d","TRANSITIONAL LAND","",,,,,,
+5,"d","","",,,,,,
+5,"d","Total transitional acres operated","farms",1,33,16,30,4,5
+5,"d","","acres","(D)",3302,5780,4494,"(D)",136
+5,"d","  Cropland","farms",1,30,16,28,4,3
+5,"d","","acres","(D)",3196,"(D)",4022,"(D)","(D)"
+5,"d","  Pastureland","farms",-,4,-,4,-,2
+5,"d","","acres",-,106,-,"(D)",-,"(D)"
+5,"d","  Rangeland","farms",-,-,2,1,-,-
+5,"d","","acres",-,-,"(D)","(D)",-,-
+5,"d","  Land owned","farms",1,20,8,23,4,3
+5,"d","","acres","(D)",1114,2664,3298,"(D)",104
+5,"d","  Land rented from others","farms",-,17,12,9,-,4
+5,"d","","acres",-,2188,3116,1196,-,32
+5,"d","  Land rented to others","farms",-,-,-,-,1,-
+5,"d","","acres",-,-,-,-,"(D)",-
+5,"c",""
+5,"c","--continued"

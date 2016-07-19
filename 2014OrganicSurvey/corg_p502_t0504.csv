@@ -1,0 +1,83 @@
+504,"t","2014 Organic Survey: Released September 17, 2015, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, U.S. Department of Agriculture."
+504,"t","Table 65.  Organic Field Crops Harvested and Value of Sales – Exempt Organic Farms:  2014"
+504,"t","[For meaning of abbreviations and symbols, see introductory text.]"
+504,"h","","","","","","",""
+504,"h","","","","","Value of sales","Value of sales","Value of sales"
+504,"h","","","","","","",""
+504,"h","","Harvested","Harvested","Harvested","Total","Total","Total"
+504,"h","","","","","","",""
+504,"h","Crop and geographic area","Farms","Acres","Quantity","Farms","Quantity","Dollars"
+504,"h","","","","","","",""
+504,"d","ALL FIELD CROPS",,,,,,
+504,"d","",,,,,,
+504,"d","United States",254,4097,"(X)",204,"(X)",606280
+504,"d","",,,,,,
+504,"d","Arkansas",3,81,"(X)",2,"(X)","(D)"
+504,"d","California",5,87,"(X)",4,"(X)",7346
+504,"d","Colorado",9,89,"(X)",7,"(X)",27464
+504,"d","Connecticut",8,55,"(X)",5,"(X)",9630
+504,"d","Florida",1,"(D)","(X)",1,"(X)","(D)"
+504,"d","",,,,,,
+504,"d","Georgia",8,44,"(X)",4,"(X)",14926
+504,"d","Idaho",2,"(D)","(X)",2,"(X)","(D)"
+504,"d","Illinois",10,131,"(X)",4,"(X)",31660
+504,"d","Indiana",13,156,"(X)",10,"(X)",50788
+504,"d","Iowa",4,80,"(X)",4,"(X)",10300
+504,"d","",,,,,,
+504,"d","Kansas",2,"(D)","(X)",2,"(X)","(D)"
+504,"d","Kentucky",4,60,"(X)",4,"(X)",20532
+504,"d","Maine",14,764,"(X)",10,"(X)",21622
+504,"d","Massachusetts",13,111,"(X)",10,"(X)",19710
+504,"d","Michigan",11,142,"(X)",11,"(X)",16372
+504,"d","",,,,,,
+504,"d","Minnesota",12,283,"(X)",12,"(X)",56823
+504,"d","Missouri",10,168,"(X)",8,"(X)",16018
+504,"d","Nebraska",2,"(D)","(X)",2,"(X)","(D)"
+504,"d","Nevada",3,6,"(X)",3,"(X)",1920
+504,"d","New Hampshire",4,48,"(X)",4,"(X)",25360
+504,"d","",,,,,,
+504,"d","New Jersey",11,64,"(X)",11,"(X)",11336
+504,"d","New York",14,322,"(X)",14,"(X)",77719
+504,"d","North Carolina",2,"(D)","(X)",-,"(X)",-
+504,"d","Ohio",9,190,"(X)",6,"(X)",24154
+504,"d","Oregon",6,22,"(X)",4,"(X)",1860
+504,"d","",,,,,,
+504,"d","Pennsylvania",7,83,"(X)",6,"(X)",17680
+504,"d","Rhode Island",1,"(D)","(X)",1,"(X)","(D)"
+504,"d","South Carolina",2,"(D)","(X)",2,"(X)","(D)"
+504,"d","South Dakota",1,"(D)","(X)",1,"(X)","(D)"
+504,"d","Tennessee",5,122,"(X)",5,"(X)",22192
+504,"d","",,,,,,
+504,"d","Texas",4,131,"(X)",3,"(X)",2025
+504,"d","Vermont",3,24,"(X)",2,"(X)","(D)"
+504,"d","Virginia",4,40,"(X)",4,"(X)",8000
+504,"d","Washington",3,"(D)","(X)",3,"(X)",4472
+504,"d","West Virginia",9,93,"(X)",7,"(X)",10052
+504,"d","Wisconsin",35,564,"(X)",26,"(X)",78930
+504,"d","",,,,,,
+504,"d","BARLEY FOR GRAIN OR",,,,,,
+504,"d"," SEED (BUSHELS)",,,,,,
+504,"d","",,,,,,
+504,"d","United States",1,"(D)","(D)",1,"(D)","(D)"
+504,"d","",,,,,,
+504,"d","Michigan",1,"(D)","(D)",1,"(D)","(D)"
+504,"d","",,,,,,
+504,"d","BUCKWHEAT (BUSHELS)",,,,,,
+504,"d","",,,,,,
+504,"d","United States",6,14,192,3,45,642
+504,"d","",,,,,,
+504,"d","New York",3,"(D)","(D)",2,"(D)","(D)"
+504,"d","West Virginia",2,"(D)","(D)",-,-,-
+504,"d","Wisconsin",1,"(D)","(D)",1,"(D)","(D)"
+504,"d","",,,,,,
+504,"d","CORN FOR GRAIN OR",,,,,,
+504,"d"," SEED (BUSHELS)",,,,,,
+504,"d","",,,,,,
+504,"d","United States",30,110,7088,12,2142,14224
+504,"d","",,,,,,
+504,"d","Colorado",4,6,720,-,-,-
+504,"d","Georgia",2,"(D)","(D)",-,-,-
+504,"d","Illinois",1,"(D)","(D)",1,"(D)","(D)"
+504,"d","Indiana",2,"(D)","(D)",2,"(D)","(D)"
+504,"c",""
+504,"c","--continued"
